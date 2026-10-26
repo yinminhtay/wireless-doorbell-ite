@@ -35,7 +35,7 @@ Everything on the receiver side is mounted in one enclosure, sized like a jewell
 
 | Switching circuit sketch | Vibration motor | Assembled receiver unit |
 |---|---|---|
-| ![Sketch](switching-circuit-sketch.jpg) | ![Vibration motor](vibration-motor.jpg) | ![Inside the unit](assembled-inside.jpg) |
+| ![Sketch](switching-circuit-sketch.jpg) | ![Vibration motor](vibration-motor.png) | ![Inside the unit](assembled-inside.jpg) |
 
 ## What was bought and what we built
 
