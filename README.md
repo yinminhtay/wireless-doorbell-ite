@@ -1,6 +1,6 @@
 # Wireless Doorbell with Vibration Alert
 
-**ITE (NITEC) final project · 3-person team · Hardware build, circuit integration and troubleshooting**
+**ITE (NITEC) final project, 2011 · 3-person team · Hardware build, circuit integration and troubleshooting**
 
 A battery-powered wireless doorbell with a sound alert and a vibration alert, built for elderly and hearing-impaired people who can miss a standard doorbell. A visitor presses a button outside the door. A receiver inside, in a portable box the user can keep nearby, plays a chime and vibrates. The range is about 25 m, including through a closed door.
 
