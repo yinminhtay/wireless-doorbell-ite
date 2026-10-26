@@ -4,7 +4,7 @@
 
 A battery-powered wireless doorbell with a sound alert and a vibration alert, built for elderly and hearing-impaired people who can miss a standard doorbell. A visitor presses a button outside the door. A receiver inside, in a portable box the user can keep nearby, plays a chime and vibrates. The range is about 25 m, including through a closed door.
 
-![Finished product: transmitter button and receiver box](images/finished-product.jpg)
+![Finished product: transmitter button and receiver box](finished-product.jpg)
 
 ---
 
@@ -31,11 +31,11 @@ Everything on the receiver side is mounted in one enclosure, sized like a jewell
 
 | RF receiver module | Switching circuit on breadboard | Doorbell sound board |
 |---|---|---|
-| ![RF receiver](images/rf-receiver-board.jpg) | ![Switching circuit](images/switching-circuit-breadboard.jpg) | ![Doorbell board](images/doorbell-sound-board.jpg) |
+| ![RF receiver](rf-receiver-board.jpg) | ![Switching circuit](switching-circuit-breadboard.jpg) | ![Doorbell board](doorbell-sound-board.jpg) |
 
 | Switching circuit sketch | Vibration motor | Assembled receiver unit |
 |---|---|---|
-| ![Sketch](images/switching-circuit-sketch.jpg) | ![Vibration motor](images/vibration-motor.jpg) | ![Inside the unit](images/assembled-inside.jpg) |
+| ![Sketch](switching-circuit-sketch.jpg) | ![Vibration motor](vibration-motor.jpg) | ![Inside the unit](assembled-inside.jpg) |
 
 ## What was bought and what we built
 
